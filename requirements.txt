@@ -1,0 +1,13 @@
+geopandas<1.0
+matplotlib
+netCDF4
+numpy
+pandas
+pyproj
+rasterio
+scikit-learn
+scipy
+seaborn
+shapely
+statsmodels
+xarray
